@@ -1,0 +1,2 @@
+# Cross_Modal_UAV_Thermal_Geo_Localization_via_Directional_Structure_Enhancement_and_Modality_Aware_Affine_Remapping
+The project code is uploaded after the paper is received.
