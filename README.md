@@ -61,7 +61,7 @@ datasets/
 ```
 
 Each record in `pairs.json` must provide `thermal` and `satellite` image paths. For prior-location evaluation, records should also provide `center_map_x` and
-`center_map_y`, or `center_lon` and `center_lat`.
+`center_map_y`, or `center_lon` and `center_lat`. The download link for the Thermal-UAV-Paired dataset is:https://pan.baidu.com/s/1oBw1gB_3_jmWB46zxyWVWA?pwd=cast.
 
 ## Training
 
